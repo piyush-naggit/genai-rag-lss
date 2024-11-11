@@ -24,7 +24,7 @@ Please find below the following prerequisites:
      ```
 
 5. **Installing Packages**:
-   - After installing Python and pip on Windows, you can install the required packages by running the following command in your terminal or Command Prompt: Run:
+   - After installing Python and pip on Windows, you can install the required packages by running the following command in your terminal or Command Prompt:
      ```shell
      pip install streamlit langchain langchain-community openai wikipedia chromadb tiktoken
      ```
